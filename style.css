@@ -1,0 +1,20 @@
+body {
+    background-color: #f8f9fa;
+}
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.boton {
+    background-color: rgba(102, 16, 60);
+    width: 100%;
+    color: #fff;
+    border-radius: 6px;
+    padding: 10px 20px;
+    transition: background-color 0.3s ease;
+}
+.boton:hover {
+    background-color: rgb(129, 31, 82);
+}
+.tabla_cabecera {
+    background-color: rgba(102, 16, 60) !important;
+}
